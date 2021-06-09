@@ -1,4 +1,4 @@
-# Working with Scripts and ther outputs
+# Working with Scripts and their outputs
 ### Meaning of the above scrips
 
 
