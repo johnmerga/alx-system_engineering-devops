@@ -1,0 +1,2 @@
+#!/bin/bashj
+sudo chown betty:holberton -R ./

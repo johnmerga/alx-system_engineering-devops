@@ -1,3 +1,3 @@
 # Shell Permission
 
-## lists of different kinds of shell permissio
+## lists of different kinds of shell permission 
