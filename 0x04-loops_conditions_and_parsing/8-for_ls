@@ -1,9 +1,13 @@
 #!/usr/bin/env bash
-# displays the content of the current directory:
-#+ In a list format
-#+ Where only the part of the name after the first dash is displayed
+#Bash script that displays:
 
-for i in *;
-do
-    echo "$i" | cut -d'-' -f2
-done
+# The content of the current directory
+# In a list format
+# Where only the part of the name after the first dash is displayed
+
+
+
+for i in *
+    do
+        echo "$i" | cut -d '-' -f 2
+    done

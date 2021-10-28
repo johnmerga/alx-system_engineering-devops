@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-# display the IP and HTTP code in list format from the apache log access file
+#Script that parses Apache logs
 
-awk '{ print $1,$9 }' apache-access.log
+awk -F' ' '{ print $1 " " $9 }' apache-access.log
